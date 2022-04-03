@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198011984354",
+    "project_id": "real-estate-mobile-db",
+    "storage_bucket": "real-estate-mobile-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198011984354:android:e8a2480e8f016fd87581bb",
+        "android_client_info": {
+          "package_name": "com.shriart.rear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198011984354-2ib3oddl68j33d82pki70kevlka5c2cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKK_HJ-lf_X7NAbqPyniT-StC-N8Khroc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198011984354-2ib3oddl68j33d82pki70kevlka5c2cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
